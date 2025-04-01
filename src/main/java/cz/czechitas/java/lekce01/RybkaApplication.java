@@ -48,6 +48,7 @@ public class RybkaApplication extends CzechitasGameApplication {
       rybka.plavatNahoru();
     }
 
-    //TODO tady napište svůj kód
+     //kód je možné taky udělat fori (int i=0; i<20) a totez na ostatni pokyny,vpravo,dolu,vlevo,nahoru)
+    // TODO tady napište svůj kód
   }
 }
